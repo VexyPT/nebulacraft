@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "nebulacraft:saphire_block"
+    }
+  ],
+  "result": {
+    "item": "nebulacraft:sapphire",
+    "count": 9
+  }
+}
