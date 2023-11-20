@@ -2,3 +2,5 @@
 
 # Mod still under development
 ### Expected release date: later this year
+
+Any Idea? DM me on Discord: chronodimension1
