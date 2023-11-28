@@ -19,7 +19,7 @@ import org.slf4j.Logger;
 
 @Mod(NebulaCraft.MODID)
 public class NebulaCraft {
-    public static final String MODID = "nebulacraft";
+    public static final String MODID = "nebulacraft"; // Mod Credits: ChronoDimension
     private static final Logger LOGGER = LogUtils.getLogger();
 
     public NebulaCraft() {
