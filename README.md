@@ -3,7 +3,7 @@
 # Mod still under development
 ### Expected release date: later this year
 
-Any Idea? DM me on Discord: chronodimension1
+Any Idea? DM me on Discord: vexypt
 Support Server: https://discord.gg/u9Xg8JY8Kg
 
 Made with ❤️
